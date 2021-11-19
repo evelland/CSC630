@@ -1,0 +1,3 @@
+https://courses.lumenlearning.com/vccs-cst100-17fa/chapter/chapter-10-the-importance-of-ethical-and-accurate-language/
+
+This article talks about the significance of specificity in communication, and how slight differences in terms/tone can drastically shift the meaning of what someone is saying. This is making me consider the efficacy of NLP and OCR. If a model is not trained to recognize or understand the intricacies of culture and context as it pertains to the meaning that needs to be derived from language, can it be relied on to make accurate decisions based on data? Is this an area which cannot be replaced by computers, or is it possible to create data that can be flexible enough to take note of these intricacies?

@@ -1,0 +1,3 @@
+https://faculty.washington.edu/ebender/2019_575/
+
+This website describes a course at Washington University that studies the ethics of Natural Language Processing - a similar field to character recognition. It points out the difficulties of understanding a language by defined, hard (computerized) rules, and the intersectional harm that can be caused from a lack of consideration of regional dialects. Data will always present biases, and models either need to be better trained or designed with flexible feedback in mind to be accomidating of the fludity of the cultures that it deals with.

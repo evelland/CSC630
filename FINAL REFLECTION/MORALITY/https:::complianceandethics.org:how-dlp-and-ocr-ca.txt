@@ -1,0 +1,3 @@
+https://complianceandethics.org/how-dlp-and-ocr-can-prevent-slips-in-email-compliance/
+
+Article about the usage of OCR for image translation in the Healthcare industry. It points out how much more accurate algorithms are than humans for translation, and how its use can prevent errors. However, this makes me think about the accuracy of OCR models, especially when dealing with hand-written documents or high-priority, complex, files. Is it ethical to make/sell an AI that deals with the lives of real people, if you cannot guarantee its effectiveness?
